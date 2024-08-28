@@ -22,6 +22,8 @@ dms uses ``ffprobe``/``avprobe`` to get media data such as bitrate and duration,
 
 .. image:: https://i.imgur.com/qbHilI7.png
 
+.. image:: https://raw.githubusercontent.com/stuart-mclaren/dms/d4b0dde1325ea063b84d4cb7778a38dec24fc632/data/dms-8player.png
+
 Installing
 ==========
 
